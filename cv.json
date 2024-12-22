@@ -1,35 +1,35 @@
 {
   "basics": {
-    "name": "John Doe",
-    "label": "Junior Full Stack Developer",
-    "image": "/me_avatar.jpg",
-    "email": "john.doe@example.com",
-    "phone": "+1 555-555-5555",
-    "url": "https://johndoe.dev",
-    "summary": "Junior Full Stack Developer with a passion for building web applications. Currently seeking opportunities to further develop my skills in a professional setting.",
-    "theme": "default",
+    "name": "Assane GNING",
+    "label": "Développeur Junior",
+    "image": "/me_profil.jpg",
+    "email": "gningaseto@hotmail.fr",
+    "phone": "+33 7 58 86 34 82",
+    "url": "https://assanegning.github.io/",
+    "summary": "Passionné par le développement d’applications web et mobiles, j’ai récemment finalisé une reconversion en tant que Concepteur Développeur d’Applications. Avec une solide maîtrise de technologies comme HTML, CSS, JavaScript, PHP et Symfony, je suis déterminé à mettre mes compétences en pratique pour concevoir des solutions innovantes et performantes. Dynamique et impliqué, je suis à la recherche d’une opportunité pour contribuer activement à des projets ambitieux et renforcer mes connaissances au sein d’une équipe technique.",
+    "theme": "blue",
     "location": {
-      "address": "",
-      "postalCode": "10001",
-      "city": "Auckland",
-      "countryCode": "NZ",
-      "region": "New Zealand"
+      "address": "128 rue Emile Normandin",
+      "postalCode": "17000",
+      "city": "La Rochelle",
+      "countryCode": "FR",
+      "region": "Nouvelle-Aquitaine"
     },
     "profiles": [
       {
         "network": "LinkedIn",
-        "username": "john-doe",
-        "url": "https://linkedin.com/in/john-doe"
+        "username": "assane-g-7a904a197",
+        "url": "https://www.linkedin.com/in/assane-g-7a904a197/"
       },
       {
         "network": "X",
-        "username": "john-doe",
-        "url": "https://x.com/john-doe"
+        "username": "GningAseto",
+        "url": "https://x.com/GningAseto"
       },
       {
         "network": "GitHub",
-        "username": "johndoe",
-        "url": "https://github.com/johndoe"
+        "username": "ASSANEASETO",
+        "url": "https://github.com/ASSANEASETO"
       }
     ]
   },
@@ -158,14 +158,7 @@
       ]
     }
   ],
-  "certificates": [
-    {
-      "name": "Full Stack Web Development",
-      "date": "2023-05-01",
-      "issuer": "Online University",
-      "url": "https://onlineuniversity.com/certificates/fullstack"
-    }
-  ],
+
   "skills": [
     {
       "name": "Figma",
