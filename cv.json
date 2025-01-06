@@ -6,7 +6,7 @@
     "email": "gningaseto@hotmail.fr",
     "phone": "+33 7 58 86 34 82",
     "url": "https://cvassanegning.github.io/",
-    "summary": "Passionné par le développement d’applications web et mobiles, j’ai récemment finalisé une reconversion en tant que Concepteur Développeur d’Applications. Avec une solide maîtrise de technologies comme HTML, CSS, JavaScript, PHP et Symfony, je suis déterminé à mettre mes compétences en pratique pour concevoir des solutions innovantes et performantes. Dynamique et impliqué, je suis à la recherche d’une opportunité pour contribuer activement à des projets ambitieux et renforcer mes connaissances au sein d’une équipe technique.",
+    "summary": "Passionné par le développement d’applications web et mobiles, j’ai récemment finalisé une reconversion en tant que Concepteur Développeur d’Applications. Avec une solide maîtrise de technologies comme HTML, CSS, JavaScript, Python, PHP et Symfony... Je suis déterminé à mettre mes compétences en pratique pour concevoir des solutions innovantes et performantes. Dynamique et impliqué, je suis à la recherche d’une opportunité pour contribuer activement à des projets ambitieux et renforcer mes connaissances au sein d’une équipe technique.",
     "theme": "blue",
     "location": {
       "address": "128 rue Emile Normandin",
@@ -275,8 +275,8 @@
       "isActive": false,
       "description": "Un site web de portfolio personnel pour présenter mes projets et mes compétences.",
       "highlights": [
-        "Construit avec Typescript et Tailwind CSS à travers ASTRO",
-        "Comprend un blog et un formulaire de contact"
+        "Réalisé en Typescript et Tailwind CSS à travers ASTRO",
+        "Responsive design"
       ],
       "url": "https://github.com/ASSANEASETO",
       "github": "https://github.com"
@@ -286,31 +286,32 @@
       "isActive": true,
       "description": "Un site vitrine que j'ai conçu pendant le stage intégrant mon cycle de formation.",
       "highlights": [
-        "Réalisé avec Symfony, PHP, TWIG et Bootstrap, PHPMyAdmin",
+        "Réalisé en PHP, TWIG et Bootstrap, PHPMyAdmin avec Symfony. ",
         "Responsive design"
       ],
       "url": "https://blackdog-education.fr/"
     },
     {
-      "name": "Cityscape",
+      "name": "Site E-commerce",
       "isActive": true,
-      "description": "Un site d'agence immobilière que j'ai conçu m'entrainer avec le framework Symfony.",
+      "description": "Un site d'agence immobilière que j'ai conçu m'entrainer en PHP avec le framework Symfony.",
       "highlights": [
-        "Built with Symfony, Php, Twig, Bootstrap, PHPMyAdmin",
+        "Réalisé en PHP, TWIG et Bootstrap, PHPMyAdmin, avec Symfony",
         "Authentification des utilisateurs et opérations CRUD"
       ],
-      "url": "https://cytiscape.com",
+      "url": "https://github.com/ASSANEASETO",
       "github": "https://github.com"
     },
     {
-      "name": "E-commerce Site",
+      "name": "BlogTechReaders",
       "isActive": false,
-      "description": "An online store built with Next.js and Stripe for payment processing.",
+      "description": "Blog pour multi auteurs.",
       "highlights": [
-        "Product management and shopping cart functionality",
-        "Secure payment integration"
+        "Réalisé en PHP, TWIG et Bootstrap, PHPMyAdmin, Docker, Sass avec Symfony",
+        "Authentification des utilisateurs et opérations CRUD"
       ],
-      "url": "https://ecommerce.com"
+      "url": "https://github.com/ASSANEASETO",
+      "github": "https://github.com"
     }
   ]
 }
